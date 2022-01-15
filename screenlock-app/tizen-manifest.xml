@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.3" package="org.tizen.screenlock" version="1.0.0">
+    <author email="gvkalra@outlook.com">Gaurav Kalra</author>
+    <description>A no nonsense ad-free screen locker for Tizen</description>
+    <profile name="mobile"/>
+    <ui-application appid="org.tizen.screenlock" auto-restart="false" exec="screenlock" multiple="false" nodisplay="false" on-boot="false" taskmanage="false" type="capp">
+        <label>Screen Lock</label>
+        <icon>icon.png</icon>
+    </ui-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/display</privilege>
+    </privileges>
+    <feature name="http://tizen.org/feature/screen.size.all">true</feature>
+</manifest>
