@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.3" package="org.example.calendarex" version="1.0.0">
+	<profile name="mobile" />
+	<ui-application appid="org.example.calendarex" exec="calendarex" type="capp" multiple="false" taskmanage="true" nodisplay="false">
+		<icon>calendarex.png</icon>
+		<label>calendarex</label>
+	</ui-application>
+</manifest>

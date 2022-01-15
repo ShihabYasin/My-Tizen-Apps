@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.3" package="org.example.datetime" version="1.0.0">
+	<profile name="mobile" />
+	<ui-application appid="org.example.datetime" exec="datetime" type="capp" multiple="false" taskmanage="true" nodisplay="false">
+		<icon>datetime.png</icon>
+		<label>datetime</label>
+	</ui-application>
+</manifest>
