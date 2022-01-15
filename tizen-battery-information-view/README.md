@@ -7,5 +7,4 @@ BatteryInfo-1
 
 BatteryInfo-2
 
-![BatteryInfo-2](https://github.com/ShihabYasin/My-Tizen-Apps/blob/master/tizen-battery-information-view
-/BatteryInfo_Capture02.png)
+![BatteryInfo-2](https://github.com/ShihabYasin/My-Tizen-Apps/blob/master/tizen-battery-information-view/BatteryInfo_Capture02.png)
