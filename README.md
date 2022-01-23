@@ -8,7 +8,7 @@
 
 
 
-* Below Some Developer Tutorial(s) Written by Me @Samsung:
+### * Below Some Developer Tutorial(s) Written by Me @Samsung:
 
  1. [Browsing with multiple tabs in WebView](https://web.archive.org/web/20220123022003/https:/developer.tizen.org/community/tip-tech/webview-native-application-browsing-multiple-tabs)
  2. [System Information Retrieval for GPS and Data Roaming](https://web.archive.org/web/20220123022359/https:/developer.tizen.org/community/tip-tech/system-information-retrieval-gps-and-data-roaming)
